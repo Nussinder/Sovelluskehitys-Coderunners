@@ -9,7 +9,7 @@ class Car {
 	public void brake() {
 
 		System.out.println("Car uses brakes.");
-
+		System.out.println("Changes");
 	}
 
 	public void accelerate() {
