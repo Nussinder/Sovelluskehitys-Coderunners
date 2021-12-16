@@ -10,6 +10,7 @@ class Car {
 
 		System.out.println("Car uses brakes.");
 		System.out.println("Changes");
+		System.out.println("Change number 2");
 	}
 
 	public void accelerate() {
