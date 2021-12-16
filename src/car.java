@@ -11,7 +11,6 @@ class Car {
 		System.out.println("Car uses brakes.");
 		System.out.println("Changes");
 		System.out.println("Change number 2");
-		System.out.println("cahngen number 3");
 	}
 
 	public void accelerate() {
